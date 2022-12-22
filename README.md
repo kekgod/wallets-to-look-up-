@@ -1,2 +1,9 @@
 # wallets-to-look-up-
 wallets on tclassic plus t2
+terra16l79rtfr2pjcax50ptxs69zaxzntvg433mtqpc
+terra19epdm5jp8vdpm7mvfuflyzys4k0xk5vmgcv0xw
+terra1gawu5a5gmxtfsrkjh034rfy5eclp49seuyxuz8
+terra1swnt7a6qxmht207ct4l36uetq38zm5nsgkyseu
+terra1uckn8fmkx7yuv6asqx7azt2hpu0wnnpd4hvu0x
+terra1w38qx5lppk3t57p99p56dln5cwaqxgt8rmxr0e
+terra1zf8s0kq5uzcnm7zkmvjeqrlwfdapgfz007rpx0
